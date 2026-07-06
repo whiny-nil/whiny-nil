@@ -41,4 +41,4 @@ Primary driver of Cursor and Claude for production engineering. I write custom a
 
 ---
 
-<sub>[https://apidock.com/rails/v2.1.0/Rails/Initializer/initialize_whiny_nils](Why whiny-nil?)</sub>
+### [Why whiny-nil?](https://apidock.com/rails/v2.1.0/Rails/Initializer/initialize_whiny_nils)</sub>
