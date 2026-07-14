@@ -33,6 +33,7 @@ Primary driver of Cursor and Claude for production engineering. I write custom a
 - **[pr-velocity](https://github.com/whiny-nil/pr-velocity)**: a personal work-velocity dashboard that pulls authored PRs, PR reviews, and resolved tickets into SQLite and charts weekly trends. Bun · Hono · htmx · Chart.js · Tailwind · `bun:sqlite`.
 - **[e2e-testing-dashboard](https://github.com/whiny-nil/e2e-testing-dashboard)**: a Playwright + GitHub Actions test dashboard with pass-rate trends, a regressed-tests view, and one-click AI debug prompts. TypeScript · Bun · Hono · htmx.
 - **[agents](https://github.com/whiny-nil/agents)**: my collection of agent skills, rules, and hooks for AI coding tools.
+- **[diff-explainer](https://github.com/whiny-nil/diff-explainer)**: an agent skill that turns a git diff or PR into a teaching-quality, interactive HTML explanation (Background → Intuition → Code). The skill emits structured JSON; a fixed renderer draws the page — no build step.
 - **[git-can-delete](https://github.com/whiny-nil/git-can-delete)**: a small CLI that tells you whether a branch is safe to delete when you squash-merge (where `git branch -d` gives false negatives).
 
 ### Remote
